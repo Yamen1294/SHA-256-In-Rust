@@ -13,8 +13,8 @@ The project is intended for study. It is not audited and not optimized; for prod
 Requirements: a stable Rust toolchain.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Yamen1294/SHA-256-In-Rust.git
+cd SHA-256-In-Rust
 cargo run --release
 ```
 
